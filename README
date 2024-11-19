@@ -1,0 +1,14 @@
+WebScraperDB
+Pasos dados:
+
+00 - muy elemental, ni siquiera tenias las letras DB
+scraping estatico pero con base de datos, que no es la de Product
+
+01 - resultó muy mal, por darle bolilla a gemini
+
+02 - usando black box, desde el principio como si nada existiera
+
+03 - PRIMER EXITO, muy básico y funcionando bien. Hubo que incluirle
+corrección de longitud a los campos link y price.
+
+04 - mensaje de creación de database corregido
